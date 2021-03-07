@@ -51,10 +51,9 @@
 
 ○ 학생 소스코드 제작 및 등록 가이드라인
 1. 학생 개인 Github 생성
-2. Github 내 저장소 생성
+2. 개인 저장소 및 교과목 프로젝트 branch에 등록
 
-  ※ 저장소 이름을 교과목 코드번호 등으로 명시
-  ※ 교과목 명 과제 및 프로젝트 내용 기록 및 코드 탑재
+  ※ 개인 저장소는 이름을 교과목 코드번호 등으로 명시
   
 ![image05](https://user-images.githubusercontent.com/79781089/110236055-1e3bbf80-7f77-11eb-9f7e-84dcb0404a0d.png)
 ![image06](https://user-images.githubusercontent.com/79781089/110236058-20058300-7f77-11eb-964d-bd0dd2906645.png)
