@@ -34,6 +34,7 @@
  ○ 교강사 소스코드 등록 및 활용 가이드라인
  1. 교강사 개인 Github 생성
  2. Github 내 저장소 생성
+
 ※ 저장소 이름을 교과목으로 표현 (ex: Artificial-intelligence-basics-HBJY-0001)
 ![image01](https://user-images.githubusercontent.com/79781089/110236024-f6e4f280-7f76-11eb-8561-1beec165c4e9.png)
 
