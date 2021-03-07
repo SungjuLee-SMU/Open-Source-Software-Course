@@ -38,9 +38,11 @@
 ![image01](https://user-images.githubusercontent.com/79781089/110236024-f6e4f280-7f76-11eb-8561-1beec165c4e9.png)
 3. 교과목 개요 및 목차 등록(README.md)
 4. 소스코드 및 설명 등록
+
 ![image02](https://user-images.githubusercontent.com/79781089/110236030-02d0b480-7f77-11eb-938b-1156b0432749.png)
 ![image03](https://user-images.githubusercontent.com/79781089/110236052-1aa83880-7f77-11eb-8101-e66e283f6bc1.png)
- ○ 학생 소스코드 제작 및 등록 가이드라인
+
+○ 학생 소스코드 제작 및 등록 가이드라인
     1. 학생 개인 Github 생성
     2. Github 내 저장소 생성
      ※ 저장소 이름을 교과목 코드번호 등으로 명시
