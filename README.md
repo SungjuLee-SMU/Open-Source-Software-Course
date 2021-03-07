@@ -1,4 +1,4 @@
-# Open-Source-Software-Course11
+# Open-Source-Software-Course
 
 □ Github을 활용한 오픈소스화 교과목 기준 및 가이드라인
 
