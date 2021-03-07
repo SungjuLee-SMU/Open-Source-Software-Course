@@ -36,6 +36,7 @@
  2. Github 내 저장소 생성
      ※ 저장소 이름을 교과목으로 표현 (ex: Artificial-intelligence-basics-HBJY-0001)
 ![image01](https://user-images.githubusercontent.com/79781089/110236024-f6e4f280-7f76-11eb-8561-1beec165c4e9.png)
+
 3. 교과목 개요 및 목차 등록(README.md)
 ![image02](https://user-images.githubusercontent.com/79781089/110236030-02d0b480-7f77-11eb-938b-1156b0432749.png)
 
