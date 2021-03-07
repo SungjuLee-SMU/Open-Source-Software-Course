@@ -59,6 +59,12 @@
 ![image05](https://user-images.githubusercontent.com/79781089/110236055-1e3bbf80-7f77-11eb-9f7e-84dcb0404a0d.png)
 ![image06](https://user-images.githubusercontent.com/79781089/110236058-20058300-7f77-11eb-964d-bd0dd2906645.png)
 
+○ Github 교과목 참고
+
+객체지향언어: Github : https://github.com/smu405/j, Gitter : https://gitter.im/smu405/j
+블록체인: Github : https://github.com/smu405/e, Gitter : https://gitter.im/smu405e/community
+빅데이터: Github : https://github.com/smu405/s, Gitter : https://gitter.im/smu405/s
+
 ○ 보상방안 제작
 - 난이도 별 보상 계획
 
